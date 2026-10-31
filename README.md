@@ -9,15 +9,14 @@ Low Latency Software Engineer | Zero-Copy | Deterministic Execution | HFT.<br>
 
 ## Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-[![C#](https://img.shields.io/badge/C%23-3882D2?logo=csharp&logoColor=fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![C#](https://img.shields.io/badge/C%23-3882D2?logo=.net&logoColor=fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Rust](https://img.shields.io/badge/Rust-3882D2?logo=rust&logoColor=fff)](https://rust-lang.org)
 [![Odin](https://img.shields.io/badge/Odin-3882D2?logo=odin&logoColor=fff)](https://odin-lang.org)
 [![Java](https://img.shields.io/badge/Java-%3882D2?logo=openjdk&logoColor=fff)](https://www.java.com)
 
 ## .NET
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.Net Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.Net](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
